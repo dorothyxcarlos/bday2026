@@ -8,6 +8,9 @@ h1 {
     color: lightskyblue;
     text-align: center;
 }
+a {
+  color: lightcyan; /* Changes all links to a nice blue */
+}
 
 /* Target all paragraphs */
 p {
